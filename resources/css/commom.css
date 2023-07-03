@@ -1,0 +1,7 @@
+.card {
+	@apply bg-white shadow-lg rounded overflow-hidden;
+}
+
+.card-body {
+	@apply px-6 p-4;
+}
